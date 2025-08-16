@@ -1,3 +1,4 @@
+# Expense Tracker
 This is java console Expense Tracker Project
 ## How to run
 1. Clone the repository
